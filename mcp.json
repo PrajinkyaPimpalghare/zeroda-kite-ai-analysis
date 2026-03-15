@@ -1,0 +1,9 @@
+{
+	"servers": {
+		"kite-zeroda": {
+			"url": "https://mcp.kite.trade/mcp",
+			"type": "http"
+		}
+	},
+	"inputs": []
+}
