@@ -9,6 +9,12 @@ Professional AI agent for comprehensive equity portfolio analysis with deep mark
 
 ---
 
+## 🔍 Keywords (Search Terms)
+
+**AI Agents** • **Stock Analysis** • **Portfolio Analysis** • **Indian Stock Market** • **NSE/BSE Analysis** • **Kite App Integration** • **Zerodha API** • **AI-Powered Trading** • **Technical Analysis** • **Equity Research** • **Investment Recommendations** • **Market Intelligence** • **Automated Analysis** • **Financial AI** • **Stock Market AI** • **Copilot Agent** • **VS Code Agent** • **Algorithmic Trading** • **Risk Management** • **Quantitative Analysis** • **Sentiment Analysis** • **Macro Analysis** • **Stock Screening** • **Portfolio Management** • **Investment Tool** • **Trading Tools**
+
+---
+
 ## 🎯 What This Does
 
 Analyzes your stock portfolio using professional frameworks:
